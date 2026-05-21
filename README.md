@@ -1,6 +1,7 @@
 # 🌵 Smart Pot — Système Expert pour Plantes Grasses et Succulentes
 
 **Projet Mini-M1 Intelligence Artificielle** | Système Expert avec Chaînage Avant en Python / Tkinter
+<img width="2558" height="1534" alt="image" src="https://github.com/user-attachments/assets/7119b008-a26c-4d94-a3d7-68b562567a93" />
 
 ---
 
