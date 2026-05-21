@@ -1,0 +1,16 @@
+# Smart Pot — Système Expert pour Plantes Grasses et Succulentes
+# Dépendances Python requises
+
+# ═══════════════════════════════════════════════════════════════
+# NOTE IMPORTANTE : Ce projet n'utilise QUE des modules standards
+# Python. Aucune installation supplémentaire n'est nécessaire !
+# ═══════════════════════════════════════════════════════════════
+
+# Modules standards inclus nativement dans Python 3.7+:
+# - tkinter    : Interface graphique
+# - calendar   : Gestion des calendriers
+# - datetime   : Gestion des dates
+
+# Pour développement/tests (optionnel):
+# pytest>=7.0  # Tests unitaires
+# black>=22.0  # Formatage code
